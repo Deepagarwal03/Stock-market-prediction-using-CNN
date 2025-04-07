@@ -1,8 +1,5 @@
 # cnn-stock-prediction
 Sample code for using 1-dimensional Convolutional Neural Networks (CNNs) to predict stock price movements
-
-Created by Jin Choi, PhD [https://www.eddywealth.com/about/jin-choi/](https://www.eddywealth.com/about/jin-choi/)
-
 Installation
 ------------
 
@@ -22,8 +19,3 @@ to actual.
     python main.py
 
 
-Disclaimer
-------------
-
-The code in this repository is intended for educational purposes only. Neither Jin nor the companies he works for
-is responsible for any losses arising from the use of this code.
